@@ -25,11 +25,11 @@ terminal_colors:
     white: "#dedede"
   bright:
     black: "#8e8e8e"
-    red: "#ffc4bd"
-    green: "#d6fcb9"
-    yellow: "#fefdd5"
-    blue: "#c1e3fe"
-    magenta: "#ffb1fe"
-    cyan: "#e5e6fe"
+    red: "#f91b02"
+    green: "#6efc02"
+    yellow: "#fffa00"
+    blue: "#028bfc"
+    magenta: "#ff02fa"
+    cyan: "#020aff"
     white: "#feffff"
 
