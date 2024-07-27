@@ -1,6 +1,6 @@
-accent: "#c66701"
+accent: "#ba0003"
 background: "#000000"
-foreground: "#e00300"
+foreground: "#8c8c8c"
 
 ###############################################################
 background_image:
@@ -14,21 +14,45 @@ background_image:
 details: "darker"
 terminal_colors:
   normal:
-    black: "#3a3a3a"
-    red: "#e00300"
-    green: "#e00300"
-    yellow: "#c66701"
-    blue: "#870000"
+    black: "#2b2b2b"
+    red: "#ba0003"
+    green: "#8c1315"
+    yellow: "#e8720b"
+    blue: "#f2bd00"
     magenta: "#8c8c8c"
-    cyan: "#bc6100"
-    white: "#F4EFBF"
+    cyan: "#e88e06"
+    white: "#ffffff"
   bright:
-    black: "#8e8e8e"
-    red: "#e00300"
-    green: "#37ffa8"
-    yellow: "#c66701"
-    blue: "#870000"
-    magenta: "#5af7d1"
-    cyan: "#bc6100"
+    black: "#2b2b2b"
+    red: "#ba0003"
+    green: "#8c1315"
+    yellow: "#e8720b"
+    blue: "#f2bd00"
+    magenta: "#8c8c8c"
+    cyan: "#e88e06"
     white: "#ffffff"
 
+# accent: "#ba0003"
+# background: "#000000"
+# foreground: "#8c8c8c"
+#
+# details: "darker"
+# terminal_colors:
+#   normal:
+#     black: "#2b2b2b"
+#     red: "#ba0003"
+#     green: "#28e802"
+#     yellow: "#ead300"
+#     blue: "#0056ea"
+#     magenta: "#cf00ea"
+#     cyan: "#00b3ea"
+#     white: "#ffffff"
+#   bright:
+#     black: "#2b2b2b"
+#     red: "#ba0003"
+#     green: "#28e802"
+#     yellow: "#ead300"
+#     blue: "#0056ea"
+#     magenta: "#cf00ea"
+#     cyan: "#00b3ea"
+#     white: "#ffffff"
